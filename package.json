@@ -1,6 +1,6 @@
 {
   "name": "language-graphql-lb",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Grammar support for GraphQL files",
   "keywords": [
     "GraphQL",
@@ -12,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
