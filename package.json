@@ -4,7 +4,7 @@
   "description": "Grammar support for GraphQL files",
   "keywords": [
     "GraphQL",
-    "Relay.QL",
+    "Relay",
     "Apollo"
   ],
   "repository": "https://github.com/gandm/language-graphql-lb",
