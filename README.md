@@ -1,5 +1,7 @@
 # language-graphql-lb package
 
+This package is no longer supported.
+
 This gramar package provides syntax highlighting for [GraphQL](http://graphql.org/) files with a file extension of `.graphql` and `.gql`. It is the same grammar as used by the [language-babel](https://github.com/gandm/language-babel) package which highlights graphql code within JavaScipt, and in particular template literals.
 
 ![img1](https://cloud.githubusercontent.com/assets/2313237/18618252/99b4c524-7dda-11e6-9cfc-25cbc07b258c.png)
