@@ -1,4 +1,4 @@
-## 0.2.0
+## 0.3.0
  - Add cease support notice on readme
  - Add support for removal of shadow DOM in Atom 1.13
 
